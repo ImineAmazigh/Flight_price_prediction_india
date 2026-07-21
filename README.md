@@ -5,7 +5,7 @@
 This Jupyter notebook demonstrates a machine learning project focused on predicting flight prices using a Random Forest Regressor. The project involves data loading, extensive preprocessing (including one-hot encoding), exploratory data analysis (EDA), model training, evaluation, and hyperparameter tuning using GridSearchCV and RandomizedSearchCV.
 
 ## Dataset
-# [Data-set LINK in Kaggle](https://www.kaggle.com/code/mazighimine/flight-prices)
+# [Data-set LINK in Kaggle](https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction)
 The project utilizes the `Clean_Dataset.csv` file, which contains various features related to flight bookings, such as airline, departure/arrival times, cities, number of stops, duration, days left until departure, and the target variable, price.
 
 ## Methodology
